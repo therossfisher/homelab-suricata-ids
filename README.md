@@ -18,7 +18,7 @@ monitoring home network traffic and generating alerts in JSON format.
 - [x] Suricata installed and running
 - [x] Rules loaded and verified
 - [x] First alert generated
-- [ ] Python alert parser
+- [x] Python alert parser
 - [ ] AI-assisted triage
 =======
 # homelab-suricata-ids
