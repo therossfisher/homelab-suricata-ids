@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import json
-import sys
 from datetime import datetime
 
 LOG_FILE = "/var/log/suricata/eve.json"
