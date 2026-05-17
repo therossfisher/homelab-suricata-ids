@@ -1,3 +1,4 @@
+
 # Home Network IDS - Raspberry Pi 4 + Suricata 7
 
 ## Overview
@@ -19,3 +20,6 @@ monitoring home network traffic and generating alerts in JSON format.
 - [x] First alert generated
 - [ ] Python alert parser
 - [ ] AI-assisted triage
+=======
+# homelab-suricata-ids
+Raspberry Pi 4 network IDS using Suricata 7 with Emerging Threats ruleset and Python-based alert parsing
